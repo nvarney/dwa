@@ -7,7 +7,7 @@
 	Last Name<br>
 	<input type='text' name='last_name'>
 	<br><br>
-
+	
 	Email<br>
 	<input type='text' name='email'>
 	<br><br>
@@ -16,6 +16,6 @@
 	<input type='password' name='password'>
 	<br><br>
 	
-	<input type='submit'>
-
+	<input type='submit' value='Submit'>
+	
 </form>
