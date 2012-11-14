@@ -44,5 +44,6 @@ $(document).ready(function() {
 	//	$('.ricardo').hide();
 	//});
 	
+//a note
 
 }); // end of doc ready
